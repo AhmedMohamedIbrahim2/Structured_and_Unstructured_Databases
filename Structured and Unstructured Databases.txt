@@ -1,0 +1,36 @@
+* What is structured data? :
+
+Structured data is typically quantitative data that is organized and easily searchable. The programming language Structured Query Language (SQL) is used in a relational database to “query” to input and search within structured data. 
+
+Examples of structured data include names, addresses, credit card numbers, telephone numbers, star ratings from customers, bank information, and other data that can be easily searched using SQL. 
+
+* Pros and cons of structured data :
+
+Three main benefits of structured data are:
+It’s easily searchable and used for machine learning algorithms.
+It’s accessible to businesses and organizations for interpreting data.
+There are more tools available for analyzing structured data than unstructured. 
+
+* Some drawbacks include :
+
+It’s limited in usage, meaning it can only be used for its intended purpose.
+It’s limited in storage options because it’s stored in systems like data warehouses with rigid schemas.
+
+* What is unstructured data? :
+
+Unstructured data is every other type of data that is not structured. Approximately 80-90% of data is unstructured, meaning it has huge potential for competitive advantage if companies find ways to leverage it [1]. Unstructured data includes content such as emails, images, videos, audio files, social media posts, PDFs, and much more.
+
+Unstructured data is typically stored in data lakes, NoSQL databases, data warehouses, and applications. Today, this information can be processed by artificial intelligence algorithms and delivers huge value for organizations.
+
+* Pros and cons of unstructured data :
+
+These are some benefits of unstructured data:
+
+It remains undefined until it’s needed, making it adaptable for data professionals to take only what they need for a specific query while storing most data in massive data lakes.
+Within definitions, unstructured data can be collected quickly and easily.
+
+* These are the drawbacks of unstructured data :
+
+It requires data scientists to have expertise in preparing and analyzing the data, which could restrict other employees in the organization from accessing it.
+Special tools are needed to deal with unstructured data, further contributing to its lack of accessibility.
+
